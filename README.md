@@ -2,7 +2,7 @@
 
 ### 🌱 my skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=twitter,html,css,js,ts,nodejs,react,nextjs,tailwind,vuejs,py,anaconda,php,java,vscode,windows,apple,aws,azure,git,github" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=twitter,html,css,js,ts,nodejs,react,nextjs,vercel,tailwind,vuejs,py,anaconda,php,java,vscode,windows,apple,aws,azure,git,github" />
 
 ## 📈 Status
 
