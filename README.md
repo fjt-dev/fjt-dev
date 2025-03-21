@@ -1,16 +1,16 @@
 ## About me
 
-### 🌱 my skills
+## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,vercel,nextjs,astro,java,php,figma,aws,gcp,git,github,windows,vscode,twitter&theme=light)](https://skillicons.dev)
+###
 
-## 📈 Status
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vuejs,nodejs,nextjs,astro,java,php,figma,aws,gcp,git,github,vscode,windows,twitter&theme=light)](https://skillicons.dev)
 
-<p align="left"> 
-  <img alt="Top Langs" height="140px" src="https://github-readme-stats.vercel.app/api?username=fjt-dev&theme=blue-green" />
-  <img alt="github stats" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjt-dev&layout=compact&theme=blue-green" />
-</p>
+## 📊 GitHub Status
+
+<p> <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=fjt-dev&theme=blue-green" alt="Top Langs" /> </p>
+<p>&nbsp;<img align="left" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjt-dev&layout=compact&theme=blue-green" alt="github stats" /> </p>
 
 ## 📨 Contact me.
 
-**[Twitter - @iQV5K](https://twitter.com/iQV5K)** | **[Portfolio Web](https://fjtdev.com)**
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/iQV5K?style=for-the-badge&labelColor=1877f2) | **[Portfolio Web](https://fjtdev.com)**
