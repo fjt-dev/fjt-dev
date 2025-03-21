@@ -8,8 +8,10 @@
 
 ## 📊 GitHub Status
 
-<p> <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=fjt-dev&theme=blue-green" alt="Top Langs" /> </p>
-<p>&nbsp;<img align="left" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjt-dev&layout=compact&theme=blue-green" alt="github stats" /> </p>
+<p align="left">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=fjt-dev&theme=blue-green" alt="Top Langs" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjt-dev&layout=compact&theme=blue-green" alt="github stats" />
+</p>
 
 ## 📫 Contact me.
 
