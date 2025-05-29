@@ -4,7 +4,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vuejs,nodejs,nextjs,astro,java,php,figma,aws,gcp,git,github,vscode,windows,twitter&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,java,php,aws,azure,git,github,vscode,windows,twitter&theme=light)](https://skillicons.dev)
 
 ## 📊 GitHub Status
 
