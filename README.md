@@ -4,7 +4,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fjt-dev&theme=blue-green" alt="fjt-dev's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjt-dev&layout=compact&theme=blue-green" alt="fjt-dev's Top Languages" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjt-dev&layout=compact&theme=blue-green" alt="fjt-dev's Top Languages" height="150"/> -->
 </div>
 
 ## 🛠️ Tech Stack
