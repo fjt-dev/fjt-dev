@@ -51,7 +51,7 @@
     * 好きな曲: `インナアチャイルド` `フロム天国 Feat. EMA`
 
 ## 🔗 Links
-  * Webpage: [fjtd.dev](https://fjt.dev)
+  * Webpage: [fjtd.dev](https://fjtd.dev)
     > My website is currently WIP <s>forever?</s>
   * Twitter (old X): [@iQV5K](https://twitter.com/iQV5K)
     > Twitter (I refuse to call it X)
