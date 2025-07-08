@@ -20,8 +20,8 @@
 
  ### Web Backend
  ![Nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
- <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) -->
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) -->
 
  ### Development
  ![Linux](https://img.shields.io/badge/Linux-FABE23?style=for-the-badge&logo=Linux&logoColor=0A0A0C)
