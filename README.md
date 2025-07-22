@@ -47,11 +47,11 @@
 ## 🎧 Favorite Singers
 * **KAF**
     * [YouTube](https://www.youtube.com/@virtual_kaf) | [Twitter](https://twitter.com/virtual_kaf) | [Spotify](https://open.spotify.com/intl-ja/artist/2c32JruIkUyfdycHmhIph4?si=BXcQ_BphQVy5NP0CGCCTMA) | [AppleMusic](https://apple.co/3HJrJDz)
-    * 好きな曲: `ゲシュタルト` `アポカリプスより`
+    * Fav Songs: `ゲシュタルト` `アポカリプスより`
 
 * **RIM**
     * [YouTube](https://www.youtube.com/@RIM_virtual) | [Twitter](https://twitter.com/_r_i_m_r_i_m_) | [Spotify](https://open.spotify.com/intl-ja/artist/1rFELoNfdLOYWPwtrBN6zS?si=4wEsto1gQeSaU2QNnOgTCQ) | [AppleMusic](https://apple.co/3HKonjO)
-    * 好きな曲: `インナアチャイルド` `フロム天国 Feat. EMA`
+    * Fav Songs: `インナアチャイルド` `フロム天国 Feat. EMA`
 
 ## 🔗 Links
   * Webpage: [fjtd.dev](https://fjtd.dev)
