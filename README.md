@@ -50,7 +50,7 @@
     * Fav Songs: `ゲシュタルト` `アポカリプスより`
 
 * **RIM**
-    * [YouTube](https://www.youtube.com/@RIM_virtual) | [Twitter](https://twitter.com/_r_i_m_r_i_m_) | [Spotify](https://open.spotify.com/intl-ja/artist/1rFELoNfdLOYWPwtrBN6zS?si=4wEsto1gQeSaU2QNnOgTCQ) | [AppleMusic](https://apple.co/3HKonjO)
+    * [YouTube](https://www.youtube.com/@RIM_virtual) | [Twitter](https://x.com/RIM_virtual) | [Spotify](https://open.spotify.com/intl-ja/artist/1rFELoNfdLOYWPwtrBN6zS?si=4wEsto1gQeSaU2QNnOgTCQ) | [AppleMusic](https://apple.co/3HKonjO)
     * Fav Songs: `インナアチャイルド` `フロム天国 Feat. EMA`
 
 ## 🔗 Links
