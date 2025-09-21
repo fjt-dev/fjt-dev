@@ -37,24 +37,8 @@
   ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F18229?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-## 💻 My PC Specs
-### Lenovo Yoga Pro 7i Gen8
-  ![OS](https://img.shields.io/badge/OS-Windows_11_Pro-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-  ![CPU](https://img.shields.io/badge/CPU-Intel_Core_i7--13700H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-  ![RAM](https://img.shields.io/badge/RAM-32GB-555555?style=for-the-badge&labelColor=708090)
-  ![SSD](https://img.shields.io/badge/SSD-1TB-555555?style=for-the-badge&labelColor=708090)
-
-## 🎧 Favorite Singers
-* **KAF**
-    * [YouTube](https://www.youtube.com/@virtual_kaf) | [Twitter](https://twitter.com/virtual_kaf) | [Spotify](https://open.spotify.com/intl-ja/artist/2c32JruIkUyfdycHmhIph4?si=BXcQ_BphQVy5NP0CGCCTMA) | [AppleMusic](https://apple.co/3HJrJDz)
-    * Fav Songs: `ゲシュタルト` `アポカリプスより`
-
-* **RIM**
-    * [YouTube](https://www.youtube.com/@RIM_virtual) | [Twitter](https://x.com/RIM_virtual) | [Spotify](https://open.spotify.com/intl-ja/artist/1rFELoNfdLOYWPwtrBN6zS?si=4wEsto1gQeSaU2QNnOgTCQ) | [AppleMusic](https://apple.co/3HKonjO)
-    * Fav Songs: `インナアチャイルド` `フロム天国 Feat. EMA`
-
 ## 🔗 Links
   * Webpage: [fjtd.dev](https://fjtd.dev)
     > My website is currently WIP <s>forever?</s>
-  * Twitter (old X): [@iQV5K](https://twitter.com/iQV5K)
+  * Twitter (X): [@iQV5K](https://twitter.com/iQV5K)
     > Twitter (I refuse to call it X)
