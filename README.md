@@ -1,10 +1,12 @@
 ## About me
 
+**[@fjt-dev](https://github.com/fjt-dev)**,  Student / Aspiring Web Front-end Developer
+
 ## 📊 GitHub Status
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fjt-dev&theme=blue-green" alt="fjt-dev's GitHub Stats" height="150"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjt-dev&layout=compact&theme=blue-green" alt="fjt-dev's Top Languages" height="150"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fjt-dev&show_icons=true&theme=graywhite" alt="fjt-dev's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjt-dev&layout=compact&theme=graywhite" alt="fjt-dev's Top Languages" height="150"/>
 </div>
 
 ## 🛠️ Tech Stack
@@ -14,8 +16,8 @@
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
- ![Vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
  ![Vite](https://img.shields.io/badge/Vite-BD34FE?style=for-the-badge&logo=vite&logoColor=white)
+ ![Vuejs](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
  ### Web Backend
@@ -30,7 +32,7 @@
 ### Tools
  ![Git](https://img.shields.io/badge/Git-F1563B?style=for-the-badge&logo=Git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1671B0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-  ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+  <!-- ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white) -->
   <!-- ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) -->
 
 ### Platforms
@@ -42,3 +44,6 @@
     > My website is currently WIP <s>forever?</s>
   * Twitter (X): [@iQV5K](https://twitter.com/iQV5K)
     > Twitter (I refuse to call it X)
+
+## ✉️ Mail
+  * hi@[Webpage] (Send only)
