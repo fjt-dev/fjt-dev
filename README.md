@@ -5,8 +5,8 @@
 ## 📊 GitHub Status
 
 <div align="left">
-  <img src="https://github-readme-stats-seven-kappa-54.vercel.app/api?username=fjt-dev&show_icons=true&theme=graywhite" alt="fjt-dev's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats-seven-kappa-54.vercel.app/api/top-langs/?username=fjt-dev&layout=compact&theme=graywhite" alt="fjt-dev's Top Languages" height="150"/>
+  <img src="https://github-readme-stats-seven-kappa-54.vercel.app/api?username=fjt-dev&show_icons=true&theme=graywhite&count_private=true" alt="fjt-dev's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats-seven-kappa-54.vercel.app/api/top-langs/?username=fjt-dev&layout=compact&theme=graywhite&count_private=true" alt="fjt-dev's Top Languages" height="150"/>
 </div>
 
 ## 🛠️ Tech Stack
