@@ -1,6 +1,6 @@
 ## About me
 
-**[@fjt-dev](https://github.com/fjt-dev)**,  Student / Aspiring Web Front-end Developer
+**[@fjt-dev](https://github.com/fjt-dev)**,  Student / Aspiring Web Frontend Engineer
 
 ## 📊 GitHub Status
 
