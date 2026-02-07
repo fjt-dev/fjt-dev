@@ -36,7 +36,7 @@
   <!-- ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) -->
 
 ### Platforms
-  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+  <!--　![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)　-->
   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F18229?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ## 🔗 Links
