@@ -9,6 +9,10 @@
   <img src="https://github-readme-stats-seven-kappa-54.vercel.app/api/top-langs/?username=fjt-dev&layout=compact&theme=graywhite&count_private=true" alt="fjt-dev's Top Languages" height="150"/>
 </div>
 
+## 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🛠️ Tech Stack
 ### Web Frontend
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
