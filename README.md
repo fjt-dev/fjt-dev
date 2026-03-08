@@ -1,6 +1,6 @@
-<!-- ## About me
+## About me
 
-**[@fjt-dev](https://github.com/fjt-dev)**,  Student / Aspiring Web Frontend Engineer -->
+**[@fjt-dev](https://github.com/fjt-dev)**,  Student / Aspiring Web Frontend Engineer
 
 ## 📊 GitHub Status
 
@@ -61,9 +61,9 @@ Markdown      8 mins                █▓░░░░░░░░░░░░�
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F18229?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-<!-- ## 🔗 Links
+## 🔗 Links
   * Webpage: [fjtd.dev](https://fjtd.dev)
-  * X (Twitter): [](https://twitter.com/) -->
+  * X (Twitter): [@fjtd_dev](https://x.com/fjtd_dev)
 
 ## ✉️ Mail
 
