@@ -1,6 +1,6 @@
 ## About me
 
-**[@fjt-dev](https://github.com/fjt-dev)**,  Student / Aspiring Web Frontend Engineer
+**[@fjt-dev](https://github.com/fjt-dev)**, Student / Aspiring Web Frontend Engineer
 
 ## 📊 GitHub Status
 
@@ -8,16 +8,6 @@
   <img src="https://readme-stats.fjtd.dev/api?username=fjt-dev&show_icons=true&theme=graywhite&count_private=true" alt="fjt-dev's GitHub Stats" height="150"/>
   <img src="https://readme-stats.fjtd.dev/api/top-langs/?username=fjt-dev&layout=compact&theme=graywhite&count_private=true" alt="fjt-dev's Top Languages" height="150"/>
 </div>
-
-## 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   1 hr 31 mins          █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
 
 ## 🛠️ Tech Stack
 
@@ -59,10 +49,11 @@ TypeScript   1 hr 31 mins          ███████████████
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F18229?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ## 🔗 Links
-  * Webpage: [fjtd.dev](https://fjtd.dev)
-  * Webpage 2: [fjtd.moe](https://fjtd.moe)
-    > Planned for future use. Currently 302 redirecting to fjtd.dev.
-  * X (Twitter): [@fjtd_dev](https://x.com/fjtd_dev)
+
+- Webpage: [fjtd.dev](https://fjtd.dev)
+- Webpage 2: [fjtd.moe](https://fjtd.moe)
+  > Planned for future use. Currently 302 redirecting to fjtd.dev.
+- X (Twitter): [@fjtd_dev](https://x.com/fjtd_dev)
 
 ## ✉️ Mail
 
