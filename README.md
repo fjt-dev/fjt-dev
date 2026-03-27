@@ -60,6 +60,8 @@ TypeScript   1 hr 31 mins          ███████████████
 
 ## 🔗 Links
   * Webpage: [fjtd.dev](https://fjtd.dev)
+  * Webpage 2: [fjtd.moe](https://fjtd.moe)
+    > Planned for future use. Currently 302 redirecting to fjtd.dev.
   * X (Twitter): [@fjtd_dev](https://x.com/fjtd_dev)
 
 ## ✉️ Mail
