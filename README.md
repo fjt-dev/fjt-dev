@@ -1,6 +1,6 @@
 ## About me
 
-**[@fjt-dev](https://github.com/fjt-dev)**, Student / Aspiring Web Frontend Engineer
+**[@fjt-dev](https://github.com/fjt-dev)**, Student / Web Frontend
 
 ## Skills
 
