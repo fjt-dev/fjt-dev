@@ -43,7 +43,11 @@
 
 ## 📊 GitHub Status
 
-<div align="left">
+<div align="center">
   <img src="https://readme-stats.fjtd.dev/api?username=fjt-dev&show_icons=true&theme=graywhite&count_private=true" alt="fjt-dev's GitHub Stats" height="150"/>
   <img src="https://readme-stats.fjtd.dev/api/top-langs/?username=fjt-dev&layout=compact&theme=graywhite&count_private=true" alt="fjt-dev's Top Languages" height="150"/>
 </div>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fjt-dev&theme=graywhite" alt="GitHub Streak" /></a>
+</div>
+
