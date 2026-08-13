@@ -14,7 +14,7 @@
 
 ### Infrastructure / Cloud
 
-![Skill Icons](https://skills.syvixor.com/api/icons?i=amazonwebservices,cloudflare,cloudflareworkers,docker,kubernetes,nginx,vercel,railway,ubuntu,mysql,&perline=10&radius=40)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=amazonwebservices,azure,cloudflare,cloudflareworkers,docker,kubernetes,nginx,vercel,railway,ubuntu,mysql,&perline=10&radius=40)
 
 ## Status
 
