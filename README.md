@@ -19,6 +19,31 @@
 ## Status
 
 <div align="left">
-  <img src="https://readme-streak.fjtd.dev?user=fjt-dev&theme=graywhite" alt="GitHub Streak" />
-  <img src="https://readme-stats.fjtd.dev/api/top-langs/?username=fjt-dev&layout=compact&theme=graywhite&count_private=true" alt="fjt-dev's Top Languages" height="150"/>
-</dev>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-streak.fjtd.dev?user=fjt-dev&theme=tokyonight"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-streak.fjtd.dev?user=fjt-dev&theme=graywhite"
+    />
+    <img src="https://readme-streak.fjtd.dev?user=fjt-dev&theme=graywhite" alt="GitHub Streak" />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://stats-extended.fjtd.dev/api/top-langs?username=fjt-dev&layout=compact&langs_count=4&theme=tokyonight"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://stats-extended.fjtd.dev/api/top-langs?username=fjt-dev&layout=compact&langs_count=4&theme=graywhite"
+    />
+    <img
+      src="https://stats-extended.fjtd.dev/api/top-langs?username=fjt-dev&layout=compact&langs_count=4&theme=graywhite"
+      alt="fjt-dev's Top Languages"
+      height="150"
+    />
+  </picture>
+</div>
