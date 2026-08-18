@@ -6,11 +6,11 @@
 
 ### Languages
 
-![Skill Icons](https://skills.syvixor.com/api/icons?i=typescript,javascript,python&perline=10&radius=40)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=typescript,javascript,python,nodejs&perline=10&radius=40)
 
 ### Framework
 
-![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,nextjs,tailwindcss,bootstrap,nodejs&perline=10&radius=40)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,nextjs,tailwindcss,bootstrap&perline=10&radius=40)
 
 ### Infrastructure / Cloud
 
