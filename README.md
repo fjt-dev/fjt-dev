@@ -6,15 +6,19 @@
 
 ### Languages
 
-![Skill Icons](https://skills.syvixor.com/api/icons?i=typescript,javascript,python,nodejs&perline=10&radius=40)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=typescript,javascript,python&perline=12&radius=40)
 
-### Framework
+### Frontend
 
-![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,nextjs,tailwindcss,bootstrap&perline=10&radius=40)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=reactjs,nextjs,tailwindcss,bootstrap&perline=12&radius=40)
+
+### Backend
+
+![Skill Icons](https://skills.syvixor.com/api/icons?i=nodejs,hono&perline=12&radius=40)
 
 ### Infrastructure / Cloud
 
-![Skill Icons](https://skills.syvixor.com/api/icons?i=amazonwebservices,azure,cloudflare,cloudflareworkers,docker,kubernetes,nginx,vercel,railway,ubuntu,mysql,&perline=10&radius=40)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=ubuntu,amazonwebservices,azure,docker,kubernetes,nginx,cloudflare,cloudflareworkers,vercel,railway,mysql&perline=10&radius=40)
 
 ## Status
 
